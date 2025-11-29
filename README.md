@@ -7,11 +7,11 @@ i explore how customers shop, which products perform best, payment preferences, 
 
 Database Structure
 
-customers   -   	Customer details
-products    -	    Product list with category & price
-sales       -     Purchase transactions
-payments    -	    Payment type & status
-shippings  	-     Order delivery & shipping time
+customers   -   Customer details
+products    -	Product list with category & price
+sales       -   Purchase transactions
+payments    -	Payment type & status
+shippings   -   Order delivery & shipping time
 
 1.Database & Table Creation
 
