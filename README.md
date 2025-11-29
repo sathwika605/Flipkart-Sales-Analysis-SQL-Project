@@ -156,6 +156,7 @@ select count(distinct customer_id)as unique_customers
 from sales;
 
 Conclusion
+
 This Flipkart sales analysis  project  can be used to derive meaningful business insights using SQL. By working with five interconnected tables  Customers, Products, Sales, Payments, and Shipping i explored sales performance, customer behavior, order delivery patterns, and revenue contribution across multiple dimensions.
 
 Throughout the analysis, multiple business questions were answered including sales trends, top-selling products, most valuable customers, payment preferences, delivery  and state-wise revenue performance. These insights not only reflect real-world analytical practices used by e-commerce companies but also help in supporting strategic decision-making like inventory planning, discount targeting, marketing segmentation, logistics partner evaluation, and customer retention programs.
